@@ -15,6 +15,7 @@ export default function ActionButton(props: Props) {
         switch(actionType) {
 
             case "view":
+                
                 return (
                     <Button onClick={() => actionFn()} type="primary" ghost>
                         <FaRegEye />
