@@ -23,7 +23,7 @@ export default function BIR(props:Props) {
     const [data, setData] = useState<PreviousEmployer []>([
         {
             key: 1,
-            company_name: 'Bitverse',
+            company_name: 'sample,
             tin: 3342342342,
             address: '10 Downing Street',
             zip_code: 1700

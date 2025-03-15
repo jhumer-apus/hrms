@@ -63,7 +63,7 @@ export default function SidebarMobile (props:any) {
                                     <Link href="">
                                         <Image
                                             src={BitverseLogo}
-                                            alt="Bitverse Logo"
+                                            alt="Sample Logo"
                                             className={`transition-all w-20`}
                                         />
                                     </Link>

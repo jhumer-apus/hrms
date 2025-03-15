@@ -39,7 +39,7 @@ export default function SidebarDesktop(props:Props) {
                         <Link href="">
                             <Image
                                 src={BitverseLogo}
-                                alt="Bitverse Logo"
+                                alt="Sample Logo"
                                 className={`w-32 pl-8`}
                             />
                         </Link>
